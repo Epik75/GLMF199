@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{ titre_doc }}</title>
+    <meta charset='UTF-8'>
+  </head>
+  <body>
+    <h1>{{ titre_page }} - {{ date }}</h1>
+    {% if biblio is not empty %}
+    <table>
+        <thead>
+            <tr><th>Titre</th><th>Auteur</th></tr>
+        </thead>
+        <tbody>
+            {# afficher les titres et noms des auteurs des livres #}
+            {% for item in biblio|sort %}
+                <tr>
+                    <td>{{ item.titre }}</td>
+                    <td>{{ item.nom|capitalize }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+        Aucun livre dans la bibliothèque.
+    {% endif %}
+  </body>
+</html>

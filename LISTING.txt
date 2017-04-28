@@ -1,0 +1,1069 @@
+.:
+total 0
+-rw-r--r-- 1 ewisniew 1049089 0 avr.  28 16:20 LISTING.txt
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 GLMF199/
+
+./GLMF199:
+total 9
+drwxr-xr-x 1 ewisniew 1049089   0 avr.  28 16:19 Reperes/
+-rw-r--r-- 1 ewisniew 1049089 483 avr.  28 16:19 README.md
+drwxr-xr-x 1 ewisniew 1049089   0 avr.  28 16:19 How-to/
+drwxr-xr-x 1 ewisniew 1049089   0 avr.  28 16:19 Dev/
+
+./GLMF199/Reperes:
+total 4
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 Preparer/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 Dessiner/
+
+./GLMF199/Reperes/Preparer:
+total 33
+-rwxr-xr-x 1 ewisniew 1049089 11651 avr.  28 16:19 qrencode.py*
+-rwxr-xr-x 1 ewisniew 1049089 13370 avr.  28 16:19 qrcodestandard.py*
+-rwxr-xr-x 1 ewisniew 1049089  2849 avr.  28 16:19 qrcodeoutils.py*
+-rw-r--r-- 1 ewisniew 1049089   256 avr.  28 16:19 README.md
+
+./GLMF199/Reperes/Dessiner:
+total 201
+-rwxr-xr-x 1 ewisniew 1049089  11651 avr.  28 16:19 qrencode.py*
+-rwxr-xr-x 1 ewisniew 1049089  13370 avr.  28 16:19 qrcodestandard.py*
+-rwxr-xr-x 1 ewisniew 1049089   2849 avr.  28 16:19 qrcodeoutils.py*
+-rw-r--r-- 1 ewisniew 1049089   9263 avr.  28 16:19 linux2.png
+-rw-r--r-- 1 ewisniew 1049089    967 avr.  28 16:19 linus.txt
+-rw-r--r-- 1 ewisniew 1049089 152949 avr.  28 16:19 Tux.svg.png
+-rw-r--r-- 1 ewisniew 1049089    197 avr.  28 16:19 README.md
+
+./GLMF199/How-to:
+total 11
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 vue/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 vendor/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 modele/
+-rw-r--r-- 1 ewisniew 1049089 2812 avr.  28 16:19 composer.lock
+-rw-r--r-- 1 ewisniew 1049089   60 avr.  28 16:19 composer.json
+-rw-r--r-- 1 ewisniew 1049089  693 avr.  28 16:19 biblio_v2.php
+-rw-r--r-- 1 ewisniew 1049089  690 avr.  28 16:19 biblio.php
+-rw-r--r-- 1 ewisniew 1049089  374 avr.  28 16:19 README.md
+
+./GLMF199/How-to/vue:
+total 5
+-rw-r--r-- 1 ewisniew 1049089 731 avr.  28 16:19 biblio_v2.twig
+-rw-r--r-- 1 ewisniew 1049089 246 avr.  28 16:19 biblio.twig
+
+./GLMF199/How-to/vendor:
+total 5
+drwxr-xr-x 1 ewisniew 1049089   0 avr.  28 16:19 twig/
+drwxr-xr-x 1 ewisniew 1049089   0 avr.  28 16:19 composer/
+-rw-r--r-- 1 ewisniew 1049089 190 avr.  28 16:19 autoload.php
+
+./GLMF199/How-to/vendor/twig:
+total 4
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 twig/
+
+./GLMF199/How-to/vendor/twig/twig:
+total 57
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 test/
+-rw-r--r-- 1 ewisniew 1049089   677 avr.  28 16:19 phpunit.xml.dist
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 lib/
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 ext/
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 doc/
+-rw-r--r-- 1 ewisniew 1049089  1239 avr.  28 16:19 composer.json
+-rw-r--r-- 1 ewisniew 1049089   501 avr.  28 16:19 README.rst
+-rw-r--r-- 1 ewisniew 1049089  1528 avr.  28 16:19 LICENSE
+-rw-r--r-- 1 ewisniew 1049089 40664 avr.  28 16:19 CHANGELOG
+
+./GLMF199/How-to/vendor/twig/twig/test:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 310 avr.  28 16:19 bootstrap.php
+drwxr-xr-x 1 ewisniew 1049089   0 avr.  28 16:19 Twig/
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig:
+total 8
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 Tests/
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests:
+total 160
+-rw-r--r-- 1 ewisniew 1049089 10809 avr.  28 16:19 escapingTest.php
+-rw-r--r-- 1 ewisniew 1049089  2066 avr.  28 16:19 TokenStreamTest.php
+-rw-r--r-- 1 ewisniew 1049089 25080 avr.  28 16:19 TemplateTest.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Profiler/
+-rw-r--r-- 1 ewisniew 1049089  6597 avr.  28 16:19 ParserTest.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 NodeVisitor/
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Node/
+-rw-r--r-- 1 ewisniew 1049089   989 avr.  28 16:19 NativeExtensionTest.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Loader/
+-rw-r--r-- 1 ewisniew 1049089 11042 avr.  28 16:19 LexerTest.php
+-rw-r--r-- 1 ewisniew 1049089  1186 avr.  28 16:19 LegacyIntegrationTest.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 LegacyFixtures/
+-rw-r--r-- 1 ewisniew 1049089  6714 avr.  28 16:19 IntegrationTest.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Fixtures/
+-rw-r--r-- 1 ewisniew 1049089   822 avr.  28 16:19 FilesystemHelper.php
+-rw-r--r-- 1 ewisniew 1049089  1411 avr.  28 16:19 FileExtensionEscapingStrategyTest.php
+-rw-r--r-- 1 ewisniew 1049089  1806 avr.  28 16:19 FileCachingTest.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Extension/
+-rw-r--r-- 1 ewisniew 1049089 14796 avr.  28 16:19 ExpressionParserTest.php
+-rw-r--r-- 1 ewisniew 1049089  5021 avr.  28 16:19 ErrorTest.php
+-rw-r--r-- 1 ewisniew 1049089 20744 avr.  28 16:19 EnvironmentTest.php
+-rw-r--r-- 1 ewisniew 1049089  1147 avr.  28 16:19 CompilerTest.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Cache/
+-rw-r--r-- 1 ewisniew 1049089   678 avr.  28 16:19 AutoloaderTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Profiler:
+total 8
+-rw-r--r-- 1 ewisniew 1049089 3622 avr.  28 16:19 ProfileTest.php
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 Dumper/
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Profiler/Dumper:
+total 17
+-rw-r--r-- 1 ewisniew 1049089  712 avr.  28 16:19 TextTest.php
+-rw-r--r-- 1 ewisniew 1049089 1097 avr.  28 16:19 HtmlTest.php
+-rw-r--r-- 1 ewisniew 1049089  840 avr.  28 16:19 BlackfireTest.php
+-rw-r--r-- 1 ewisniew 1049089 4374 avr.  28 16:19 AbstractTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/NodeVisitor:
+total 8
+-rw-r--r-- 1 ewisniew 1049089 5311 avr.  28 16:19 OptimizerTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Node:
+total 73
+-rw-r--r-- 1 ewisniew 1049089  636 avr.  28 16:19 TextTest.php
+-rw-r--r-- 1 ewisniew 1049089  982 avr.  28 16:19 SpacelessTest.php
+-rw-r--r-- 1 ewisniew 1049089 2624 avr.  28 16:19 SetTest.php
+-rw-r--r-- 1 ewisniew 1049089  842 avr.  28 16:19 SandboxedPrintTest.php
+-rw-r--r-- 1 ewisniew 1049089 1003 avr.  28 16:19 SandboxTest.php
+-rw-r--r-- 1 ewisniew 1049089  734 avr.  28 16:19 PrintTest.php
+-rw-r--r-- 1 ewisniew 1049089 5411 avr.  28 16:19 ModuleTest.php
+-rw-r--r-- 1 ewisniew 1049089 2068 avr.  28 16:19 MacroTest.php
+-rw-r--r-- 1 ewisniew 1049089 2871 avr.  28 16:19 IncludeTest.php
+-rw-r--r-- 1 ewisniew 1049089 1076 avr.  28 16:19 ImportTest.php
+-rw-r--r-- 1 ewisniew 1049089 2524 avr.  28 16:19 IfTest.php
+-rw-r--r-- 1 ewisniew 1049089 8061 avr.  28 16:19 ForTest.php
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 Expression/
+-rw-r--r-- 1 ewisniew 1049089  770 avr.  28 16:19 DoTest.php
+-rw-r--r-- 1 ewisniew 1049089  906 avr.  28 16:19 BlockTest.php
+-rw-r--r-- 1 ewisniew 1049089  702 avr.  28 16:19 BlockReferenceTest.php
+-rw-r--r-- 1 ewisniew 1049089  858 avr.  28 16:19 AutoEscapeTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Node/Expression:
+total 64
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 Unary/
+-rw-r--r-- 1 ewisniew 1049089 3326 avr.  28 16:19 TestTest.php
+-rw-r--r-- 1 ewisniew 1049089  701 avr.  28 16:19 ParentTest.php
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 PHP53/
+-rw-r--r-- 1 ewisniew 1049089 1268 avr.  28 16:19 NameTest.php
+-rw-r--r-- 1 ewisniew 1049089 2321 avr.  28 16:19 GetAttrTest.php
+-rw-r--r-- 1 ewisniew 1049089 4830 avr.  28 16:19 FunctionTest.php
+-rw-r--r-- 1 ewisniew 1049089 6717 avr.  28 16:19 FilterTest.php
+-rw-r--r-- 1 ewisniew 1049089  689 avr.  28 16:19 ConstantTest.php
+-rw-r--r-- 1 ewisniew 1049089 1220 avr.  28 16:19 ConditionalTest.php
+-rw-r--r-- 1 ewisniew 1049089 6408 avr.  28 16:19 CallTest.php
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 Binary/
+-rw-r--r-- 1 ewisniew 1049089  679 avr.  28 16:19 AssignNameTest.php
+-rw-r--r-- 1 ewisniew 1049089 1082 avr.  28 16:19 ArrayTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Node/Expression/Unary:
+total 12
+-rw-r--r-- 1 ewisniew 1049089 774 avr.  28 16:19 PosTest.php
+-rw-r--r-- 1 ewisniew 1049089 774 avr.  28 16:19 NotTest.php
+-rw-r--r-- 1 ewisniew 1049089 848 avr.  28 16:19 NegTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Node/Expression/PHP53:
+total 3
+-rw-r--r-- 1 ewisniew 1049089 153 avr.  28 16:19 TestInclude.php
+-rw-r--r-- 1 ewisniew 1049089 161 avr.  28 16:19 FunctionInclude.php
+-rw-r--r-- 1 ewisniew 1049089 157 avr.  28 16:19 FilterInclude.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Node/Expression/Binary:
+total 36
+-rw-r--r-- 1 ewisniew 1049089  979 avr.  28 16:19 SubTest.php
+-rw-r--r-- 1 ewisniew 1049089  977 avr.  28 16:19 OrTest.php
+-rw-r--r-- 1 ewisniew 1049089  979 avr.  28 16:19 MulTest.php
+-rw-r--r-- 1 ewisniew 1049089  979 avr.  28 16:19 ModTest.php
+-rw-r--r-- 1 ewisniew 1049089 1007 avr.  28 16:19 FloorDivTest.php
+-rw-r--r-- 1 ewisniew 1049089  979 avr.  28 16:19 DivTest.php
+-rw-r--r-- 1 ewisniew 1049089  988 avr.  28 16:19 ConcatTest.php
+-rw-r--r-- 1 ewisniew 1049089  980 avr.  28 16:19 AndTest.php
+-rw-r--r-- 1 ewisniew 1049089  979 avr.  28 16:19 AddTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader:
+total 20
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 Fixtures/
+-rw-r--r-- 1 ewisniew 1049089 7651 avr.  28 16:19 FilesystemTest.php
+-rw-r--r-- 1 ewisniew 1049089 2470 avr.  28 16:19 ChainTest.php
+-rw-r--r-- 1 ewisniew 1049089 2339 avr.  28 16:19 ArrayTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures:
+total 4
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 themes/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 phar/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 normal_ter/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 normal_final/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 normal_bis/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 normal/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 named_ter/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 named_quater/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 named_final/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 named_bis/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 named/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 inheritance/
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/themes:
+total 0
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 theme2/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 theme1/
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/themes/theme2:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 95 avr.  28 16:19 blocks.html.twig
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/themes/theme1:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 98 avr.  28 16:19 blocks.html.twig
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar:
+total 8
+-rw-r--r-- 1 ewisniew 1049089 6786 avr.  28 16:19 phar-sample.phar
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/normal_ter:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 12 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/normal_final:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 14 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/normal_bis:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 12 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/normal:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 6 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/named_ter:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 18 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/named_quater:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 21 avr.  28 16:19 named_absolute.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/named_final:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 20 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/named_bis:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 18 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/named:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 12 avr.  28 16:19 index.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/inheritance:
+total 6
+-rw-r--r-- 1 ewisniew 1049089  44 avr.  28 16:19 spare_parent.html.twig
+-rw-r--r-- 1 ewisniew 1049089  37 avr.  28 16:19 parent.html.twig
+-rw-r--r-- 1 ewisniew 1049089 115 avr.  28 16:19 array_inheritance_valid_parent.html.twig
+-rw-r--r-- 1 ewisniew 1049089  95 avr.  28 16:19 array_inheritance_null_parent.html.twig
+-rw-r--r-- 1 ewisniew 1049089 114 avr.  28 16:19 array_inheritance_nonexistent_parent.html.twig
+-rw-r--r-- 1 ewisniew 1049089  93 avr.  28 16:19 array_inheritance_empty_parent.html.twig
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/LegacyFixtures:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 132 avr.  28 16:19 test.legacy.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures:
+total 56
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 tests/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 tags/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 regression/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 macros/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 functions/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 filters/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 expressions/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 exceptions/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 errors/
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 autoescape/
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tests:
+total 19
+-rw-r--r-- 1 ewisniew 1049089  140 avr.  28 16:19 odd.test
+-rw-r--r-- 1 ewisniew 1049089  492 avr.  28 16:19 null_coalesce.test
+-rw-r--r-- 1 ewisniew 1049089  377 avr.  28 16:19 iterable.test
+-rw-r--r-- 1 ewisniew 1049089  351 avr.  28 16:19 in_with_objects.test
+-rw-r--r-- 1 ewisniew 1049089 2394 avr.  28 16:19 in.test
+-rw-r--r-- 1 ewisniew 1049089  223 avr.  28 16:19 even.test
+-rw-r--r-- 1 ewisniew 1049089 1088 avr.  28 16:19 empty.test
+-rw-r--r-- 1 ewisniew 1049089 3165 avr.  28 16:19 defined.test
+-rw-r--r-- 1 ewisniew 1049089  385 avr.  28 16:19 constant.test
+-rw-r--r-- 1 ewisniew 1049089  406 avr.  28 16:19 array.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags:
+total 54
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 verbatim/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 use/
+-rw-r--r-- 1 ewisniew 1049089 1029 avr.  28 16:19 trim_block.test
+-rw-r--r-- 1 ewisniew 1049089   93 avr.  28 16:19 special_chars.test
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 spaceless/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 set/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 sandbox/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 raw/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 macro/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 inheritance/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 include/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 if/
+-rw-r--r-- 1 ewisniew 1049089  267 avr.  28 16:19 from.test
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 for/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 filter/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 embed/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 block/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 autoescape/
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/verbatim:
+total 3
+-rw-r--r-- 1 ewisniew 1049089 560 avr.  28 16:19 whitespace_control.test
+-rw-r--r-- 1 ewisniew 1049089 219 avr.  28 16:19 mixed_usage_with_raw.test
+-rw-r--r-- 1 ewisniew 1049089 135 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/use:
+total 23
+-rw-r--r-- 1 ewisniew 1049089 866 avr.  28 16:19 parent_block3.test
+-rw-r--r-- 1 ewisniew 1049089 556 avr.  28 16:19 parent_block2.test
+-rw-r--r-- 1 ewisniew 1049089 645 avr.  28 16:19 parent_block.test
+-rw-r--r-- 1 ewisniew 1049089 407 avr.  28 16:19 multiple_aliases.test
+-rw-r--r-- 1 ewisniew 1049089 346 avr.  28 16:19 multiple.test
+-rw-r--r-- 1 ewisniew 1049089 630 avr.  28 16:19 inheritance2.test
+-rw-r--r-- 1 ewisniew 1049089 632 avr.  28 16:19 inheritance.test
+-rw-r--r-- 1 ewisniew 1049089 165 avr.  28 16:19 deep_empty.test
+-rw-r--r-- 1 ewisniew 1049089 348 avr.  28 16:19 deep.test
+-rw-r--r-- 1 ewisniew 1049089 183 avr.  28 16:19 basic.test
+-rw-r--r-- 1 ewisniew 1049089 199 avr.  28 16:19 aliases.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/spaceless:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 229 avr.  28 16:19 simple.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/set:
+total 4
+-rw-r--r-- 1 ewisniew 1049089 164 avr.  28 16:19 expression.test
+-rw-r--r-- 1 ewisniew 1049089 159 avr.  28 16:19 capture.test
+-rw-r--r-- 1 ewisniew 1049089 151 avr.  28 16:19 capture-empty.test
+-rw-r--r-- 1 ewisniew 1049089 242 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/sandbox:
+total 3
+-rw-r--r-- 1 ewisniew 1049089 347 avr.  28 16:19 simple.test
+-rw-r--r-- 1 ewisniew 1049089 323 avr.  28 16:19 not_valid2.test
+-rw-r--r-- 1 ewisniew 1049089 260 avr.  28 16:19 not_valid1.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/raw:
+total 3
+-rw-r--r-- 1 ewisniew 1049089 505 avr.  28 16:19 whitespace_control.legacy.test
+-rw-r--r-- 1 ewisniew 1049089 209 avr.  28 16:19 mixed_usage_with_raw.legacy.test
+-rw-r--r-- 1 ewisniew 1049089 120 avr.  28 16:19 basic.legacy.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/macro:
+total 11
+-rw-r--r-- 1 ewisniew 1049089 213 avr.  28 16:19 super_globals.test
+-rw-r--r-- 1 ewisniew 1049089 205 avr.  28 16:19 special_chars.test
+-rw-r--r-- 1 ewisniew 1049089 499 avr.  28 16:19 self_import.test
+-rw-r--r-- 1 ewisniew 1049089 272 avr.  28 16:19 reserved_name.test
+-rw-r--r-- 1 ewisniew 1049089 294 avr.  28 16:19 import_with_reserved_nam.test
+-rw-r--r-- 1 ewisniew 1049089 266 avr.  28 16:19 global.test
+-rw-r--r-- 1 ewisniew 1049089 285 avr.  28 16:19 from_with_reserved_name.test
+-rw-r--r-- 1 ewisniew 1049089 371 avr.  28 16:19 from.test
+-rw-r--r-- 1 ewisniew 1049089 530 avr.  28 16:19 external.test
+-rw-r--r-- 1 ewisniew 1049089 264 avr.  28 16:19 endmacro_name.test
+-rw-r--r-- 1 ewisniew 1049089 502 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/inheritance:
+total 32
+-rw-r--r-- 1 ewisniew 1049089 1026 avr.  28 16:19 use.test
+-rw-r--r-- 1 ewisniew 1049089  295 avr.  28 16:19 template_instance.test
+-rw-r--r-- 1 ewisniew 1049089  224 avr.  28 16:19 parent_without_extends_but_traits.test
+-rw-r--r-- 1 ewisniew 1049089  249 avr.  28 16:19 parent_without_extends.test
+-rw-r--r-- 1 ewisniew 1049089  367 avr.  28 16:19 parent_nested.test
+-rw-r--r-- 1 ewisniew 1049089  484 avr.  28 16:19 parent_isolation.test
+-rw-r--r-- 1 ewisniew 1049089  195 avr.  28 16:19 parent_in_a_block.test
+-rw-r--r-- 1 ewisniew 1049089  255 avr.  28 16:19 parent_change.test
+-rw-r--r-- 1 ewisniew 1049089  244 avr.  28 16:19 parent.test
+-rw-r--r-- 1 ewisniew 1049089  327 avr.  28 16:19 nested_inheritance.test
+-rw-r--r-- 1 ewisniew 1049089  266 avr.  28 16:19 nested_blocks_parent_only.test
+-rw-r--r-- 1 ewisniew 1049089  418 avr.  28 16:19 nested_blocks.test
+-rw-r--r-- 1 ewisniew 1049089  484 avr.  28 16:19 multiple_dynamic.test
+-rw-r--r-- 1 ewisniew 1049089  351 avr.  28 16:19 multiple.test
+-rw-r--r-- 1 ewisniew 1049089  182 avr.  28 16:19 extends_as_array_with_null_name.test
+-rw-r--r-- 1 ewisniew 1049089  180 avr.  28 16:19 extends_as_array_with_empty_name.test
+-rw-r--r-- 1 ewisniew 1049089  188 avr.  28 16:19 extends_as_array.test
+-rw-r--r-- 1 ewisniew 1049089  170 avr.  28 16:19 empty.test
+-rw-r--r-- 1 ewisniew 1049089  223 avr.  28 16:19 dynamic.test
+-rw-r--r-- 1 ewisniew 1049089  349 avr.  28 16:19 conditional.test
+-rw-r--r-- 1 ewisniew 1049089  706 avr.  28 16:19 block_expr2.test
+-rw-r--r-- 1 ewisniew 1049089  651 avr.  28 16:19 block_expr.test
+-rw-r--r-- 1 ewisniew 1049089  211 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/include:
+total 9
+-rw-r--r-- 1 ewisniew 1049089 252 avr.  28 16:19 with_variables.test
+-rw-r--r-- 1 ewisniew 1049089 196 avr.  28 16:19 templates_as_array.test
+-rw-r--r-- 1 ewisniew 1049089 209 avr.  28 16:19 template_instance.test
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 only.test
+-rw-r--r-- 1 ewisniew 1049089 340 avr.  28 16:19 missing_nested.test
+-rw-r--r-- 1 ewisniew 1049089 189 avr.  28 16:19 missing.test
+-rw-r--r-- 1 ewisniew 1049089 276 avr.  28 16:19 ignore_missing.test
+-rw-r--r-- 1 ewisniew 1049089 226 avr.  28 16:19 expression.test
+-rw-r--r-- 1 ewisniew 1049089 167 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/if:
+total 2
+-rw-r--r-- 1 ewisniew 1049089 297 avr.  28 16:19 expression.test
+-rw-r--r-- 1 ewisniew 1049089 313 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/for:
+total 21
+-rw-r--r-- 1 ewisniew 1049089  194 avr.  28 16:19 values.test
+-rw-r--r-- 1 ewisniew 1049089  378 avr.  28 16:19 recursive.test
+-rw-r--r-- 1 ewisniew 1049089 1116 avr.  28 16:19 objects_countable.test
+-rw-r--r-- 1 ewisniew 1049089  908 avr.  28 16:19 objects.test
+-rw-r--r-- 1 ewisniew 1049089  323 avr.  28 16:19 nested_else.test
+-rw-r--r-- 1 ewisniew 1049089  266 avr.  28 16:19 loop_not_defined_cond.test
+-rw-r--r-- 1 ewisniew 1049089  291 avr.  28 16:19 loop_not_defined.test
+-rw-r--r-- 1 ewisniew 1049089  227 avr.  28 16:19 loop_context_local.test
+-rw-r--r-- 1 ewisniew 1049089  376 avr.  28 16:19 loop_context.test
+-rw-r--r-- 1 ewisniew 1049089  220 avr.  28 16:19 keys_and_values.test
+-rw-r--r-- 1 ewisniew 1049089  193 avr.  28 16:19 keys.test
+-rw-r--r-- 1 ewisniew 1049089  311 avr.  28 16:19 inner_variables.test
+-rw-r--r-- 1 ewisniew 1049089  387 avr.  28 16:19 else.test
+-rw-r--r-- 1 ewisniew 1049089  300 avr.  28 16:19 context.test
+-rw-r--r-- 1 ewisniew 1049089  283 avr.  28 16:19 condition.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/filter:
+total 6
+-rw-r--r-- 1 ewisniew 1049089 404 avr.  28 16:19 with_if_tag.test
+-rw-r--r-- 1 ewisniew 1049089 229 avr.  28 16:19 with_for_tag.test
+-rw-r--r-- 1 ewisniew 1049089 265 avr.  28 16:19 nested.test
+-rw-r--r-- 1 ewisniew 1049089 188 avr.  28 16:19 multiple.test
+-rw-r--r-- 1 ewisniew 1049089 166 avr.  28 16:19 json_encode.test
+-rw-r--r-- 1 ewisniew 1049089 210 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/embed:
+total 16
+-rw-r--r-- 1 ewisniew 1049089 846 avr.  28 16:19 with_extends.test
+-rw-r--r-- 1 ewisniew 1049089 630 avr.  28 16:19 nested.test
+-rw-r--r-- 1 ewisniew 1049089 622 avr.  28 16:19 multiple.test
+-rw-r--r-- 1 ewisniew 1049089 339 avr.  28 16:19 error_line.test
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 dynamic_parent.test
+-rw-r--r-- 1 ewisniew 1049089 436 avr.  28 16:19 complex_dynamic_parent.test
+-rw-r--r-- 1 ewisniew 1049089 419 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/block:
+total 3
+-rw-r--r-- 1 ewisniew 1049089 141 avr.  28 16:19 special_chars.test
+-rw-r--r-- 1 ewisniew 1049089 259 avr.  28 16:19 block_unique_name.test
+-rw-r--r-- 1 ewisniew 1049089 223 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/autoescape:
+total 33
+-rw-r--r-- 1 ewisniew 1049089 1318 avr.  28 16:19 with_preserves_safety_filters.test
+-rw-r--r-- 1 ewisniew 1049089 1517 avr.  28 16:19 with_pre_escape_filters.test
+-rw-r--r-- 1 ewisniew 1049089  504 avr.  28 16:19 with_filters_arguments.test
+-rw-r--r-- 1 ewisniew 1049089 4056 avr.  28 16:19 with_filters.test
+-rw-r--r-- 1 ewisniew 1049089 1549 avr.  28 16:19 type.test
+-rw-r--r-- 1 ewisniew 1049089  277 avr.  28 16:19 strategy.test
+-rw-r--r-- 1 ewisniew 1049089  283 avr.  28 16:19 strategy.legacy.test
+-rw-r--r-- 1 ewisniew 1049089  211 avr.  28 16:19 raw.test
+-rw-r--r-- 1 ewisniew 1049089  490 avr.  28 16:19 objects.test
+-rw-r--r-- 1 ewisniew 1049089  480 avr.  28 16:19 nested.test
+-rw-r--r-- 1 ewisniew 1049089  965 avr.  28 16:19 literal.test
+-rw-r--r-- 1 ewisniew 1049089  949 avr.  28 16:19 functions.test
+-rw-r--r-- 1 ewisniew 1049089  198 avr.  28 16:19 double_escaping.test
+-rw-r--r-- 1 ewisniew 1049089  245 avr.  28 16:19 blocks.test
+-rw-r--r-- 1 ewisniew 1049089  522 avr.  28 16:19 basic.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/regression:
+total 6
+-rw-r--r-- 1 ewisniew 1049089 184 avr.  28 16:19 strings_like_numbers.test
+-rw-r--r-- 1 ewisniew 1049089 562 avr.  28 16:19 simple_xml_element.test
+-rw-r--r-- 1 ewisniew 1049089 217 avr.  28 16:19 multi_word_tests.test
+-rw-r--r-- 1 ewisniew 1049089 521 avr.  28 16:19 issue_1143.test
+-rw-r--r-- 1 ewisniew 1049089 138 avr.  28 16:19 empty_token.test
+-rw-r--r-- 1 ewisniew 1049089 348 avr.  28 16:19 combined_debug_info.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/macros:
+total 7
+-rw-r--r-- 1 ewisniew 1049089 237 avr.  28 16:19 with_filters.test
+-rw-r--r-- 1 ewisniew 1049089 282 avr.  28 16:19 varargs_argument.test
+-rw-r--r-- 1 ewisniew 1049089 401 avr.  28 16:19 varargs.test
+-rw-r--r-- 1 ewisniew 1049089 381 avr.  28 16:19 simple.test
+-rw-r--r-- 1 ewisniew 1049089 200 avr.  28 16:19 reserved_variables.test
+-rw-r--r-- 1 ewisniew 1049089 248 avr.  28 16:19 nested_calls.test
+-rw-r--r-- 1 ewisniew 1049089 231 avr.  28 16:19 default_values.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/functions:
+total 29
+-rw-r--r-- 1 ewisniew 1049089  471 avr.  28 16:19 template_from_string.test
+-rw-r--r-- 1 ewisniew 1049089  189 avr.  28 16:19 static_calls.test
+-rw-r--r-- 1 ewisniew 1049089  110 avr.  28 16:19 special_chars.test
+-rw-r--r-- 1 ewisniew 1049089  191 avr.  28 16:19 source.test
+-rw-r--r-- 1 ewisniew 1049089 1192 avr.  28 16:19 recursive_block_with_inheritance.test
+-rw-r--r-- 1 ewisniew 1049089  142 avr.  28 16:19 range.test
+-rw-r--r-- 1 ewisniew 1049089  205 avr.  28 16:19 min.test
+-rw-r--r-- 1 ewisniew 1049089  204 avr.  28 16:19 max.test
+-rw-r--r-- 1 ewisniew 1049089  240 avr.  28 16:19 magic_call53.test
+-rw-r--r-- 1 ewisniew 1049089  111 avr.  28 16:19 magic_call.test
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 include/
+-rw-r--r-- 1 ewisniew 1049089  147 avr.  28 16:19 dynamic_function.test
+-rw-r--r-- 1 ewisniew 1049089  501 avr.  28 16:19 dump_array.test
+-rw-r--r-- 1 ewisniew 1049089  318 avr.  28 16:19 dump.test
+-rw-r--r-- 1 ewisniew 1049089  358 avr.  28 16:19 date_namedargs.test
+-rw-r--r-- 1 ewisniew 1049089  920 avr.  28 16:19 date.test
+-rw-r--r-- 1 ewisniew 1049089  326 avr.  28 16:19 cycle.test
+-rw-r--r-- 1 ewisniew 1049089  254 avr.  28 16:19 constant.test
+-rw-r--r-- 1 ewisniew 1049089  262 avr.  28 16:19 block.test
+-rw-r--r-- 1 ewisniew 1049089  524 avr.  28 16:19 attribute.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/functions/include:
+total 14
+-rw-r--r-- 1 ewisniew 1049089 252 avr.  28 16:19 with_variables.test
+-rw-r--r-- 1 ewisniew 1049089 477 avr.  28 16:19 with_context.test
+-rw-r--r-- 1 ewisniew 1049089 204 avr.  28 16:19 templates_as_array.test
+-rw-r--r-- 1 ewisniew 1049089 215 avr.  28 16:19 template_instance.test
+-rw-r--r-- 1 ewisniew 1049089 264 avr.  28 16:19 sandbox_disabling_ignore_missing.test
+-rw-r--r-- 1 ewisniew 1049089 271 avr.  28 16:19 sandbox_disabling.test
+-rw-r--r-- 1 ewisniew 1049089 285 avr.  28 16:19 sandbox.test
+-rw-r--r-- 1 ewisniew 1049089 346 avr.  28 16:19 missing_nested.test
+-rw-r--r-- 1 ewisniew 1049089 195 avr.  28 16:19 missing.test
+-rw-r--r-- 1 ewisniew 1049089 349 avr.  28 16:19 ignore_missing.test
+-rw-r--r-- 1 ewisniew 1049089 234 avr.  28 16:19 expression.test
+-rw-r--r-- 1 ewisniew 1049089 175 avr.  28 16:19 basic.test
+-rw-r--r-- 1 ewisniew 1049089 185 avr.  28 16:19 autoescaping.test
+-rw-r--r-- 1 ewisniew 1049089 186 avr.  28 16:19 assignment.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/filters:
+total 80
+-rw-r--r-- 1 ewisniew 1049089  579 avr.  28 16:19 urlencode_deprecated.test
+-rw-r--r-- 1 ewisniew 1049089  556 avr.  28 16:19 urlencode.test
+-rw-r--r-- 1 ewisniew 1049089  318 avr.  28 16:19 trim.test
+-rw-r--r-- 1 ewisniew 1049089  185 avr.  28 16:19 static_calls.test
+-rw-r--r-- 1 ewisniew 1049089  543 avr.  28 16:19 split_utf8.test
+-rw-r--r-- 1 ewisniew 1049089  506 avr.  28 16:19 split.test
+-rw-r--r-- 1 ewisniew 1049089  107 avr.  28 16:19 special_chars.test
+-rw-r--r-- 1 ewisniew 1049089  292 avr.  28 16:19 sort.test
+-rw-r--r-- 1 ewisniew 1049089 1058 avr.  28 16:19 slice.test
+-rw-r--r-- 1 ewisniew 1049089  284 avr.  28 16:19 round.test
+-rw-r--r-- 1 ewisniew 1049089  454 avr.  28 16:19 reverse.test
+-rw-r--r-- 1 ewisniew 1049089  321 avr.  28 16:19 replace_invalid_arg.test
+-rw-r--r-- 1 ewisniew 1049089  467 avr.  28 16:19 replace.test
+-rw-r--r-- 1 ewisniew 1049089  458 avr.  28 16:19 number_format_default.test
+-rw-r--r-- 1 ewisniew 1049089  324 avr.  28 16:19 number_format.test
+-rw-r--r-- 1 ewisniew 1049089  396 avr.  28 16:19 nl2br.test
+-rw-r--r-- 1 ewisniew 1049089  563 avr.  28 16:19 merge.test
+-rw-r--r-- 1 ewisniew 1049089  238 avr.  28 16:19 length_utf8.test
+-rw-r--r-- 1 ewisniew 1049089  278 avr.  28 16:19 length.test
+-rw-r--r-- 1 ewisniew 1049089  270 avr.  28 16:19 last.test
+-rw-r--r-- 1 ewisniew 1049089  245 avr.  28 16:19 json_encode.test
+-rw-r--r-- 1 ewisniew 1049089  241 avr.  28 16:19 join.test
+-rw-r--r-- 1 ewisniew 1049089  150 avr.  28 16:19 format.test
+-rw-r--r-- 1 ewisniew 1049089  308 avr.  28 16:19 force_escape.test
+-rw-r--r-- 1 ewisniew 1049089  277 avr.  28 16:19 first.test
+-rw-r--r-- 1 ewisniew 1049089  161 avr.  28 16:19 escape_non_supported_charset.test
+-rw-r--r-- 1 ewisniew 1049089  212 avr.  28 16:19 escape_html_attr.test
+-rw-r--r-- 1 ewisniew 1049089  119 avr.  28 16:19 escape.test
+-rw-r--r-- 1 ewisniew 1049089  143 avr.  28 16:19 dynamic_filter.test
+-rw-r--r-- 1 ewisniew 1049089 4169 avr.  28 16:19 default.test
+-rw-r--r-- 1 ewisniew 1049089  436 avr.  28 16:19 date_namedargs.test
+-rw-r--r-- 1 ewisniew 1049089  357 avr.  28 16:19 date_modify.test
+-rw-r--r-- 1 ewisniew 1049089  514 avr.  28 16:19 date_interval.test
+-rw-r--r-- 1 ewisniew 1049089 1081 avr.  28 16:19 date_immutable.test
+-rw-r--r-- 1 ewisniew 1049089  409 avr.  28 16:19 date_default_format_interval.test
+-rw-r--r-- 1 ewisniew 1049089  320 avr.  28 16:19 date_default_format.test
+-rw-r--r-- 1 ewisniew 1049089 2497 avr.  28 16:19 date.test
+-rw-r--r-- 1 ewisniew 1049089  314 avr.  28 16:19 convert_encoding.test
+-rw-r--r-- 1 ewisniew 1049089  163 avr.  28 16:19 batch_with_zero_elements.test
+-rw-r--r-- 1 ewisniew 1049089  267 avr.  28 16:19 batch_with_keys.test
+-rw-r--r-- 1 ewisniew 1049089  622 avr.  28 16:19 batch_with_fill.test
+-rw-r--r-- 1 ewisniew 1049089  815 avr.  28 16:19 batch_with_exact_elements.test
+-rw-r--r-- 1 ewisniew 1049089  610 avr.  28 16:19 batch_with_empty_fill.test
+-rw-r--r-- 1 ewisniew 1049089  706 avr.  28 16:19 batch_float.test
+-rw-r--r-- 1 ewisniew 1049089  735 avr.  28 16:19 batch.test
+-rw-r--r-- 1 ewisniew 1049089  426 avr.  28 16:19 abs.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/expressions:
+total 35
+-rw-r--r-- 1 ewisniew 1049089  172 avr.  28 16:19 unary_precedence.test
+-rw-r--r-- 1 ewisniew 1049089  633 avr.  28 16:19 unary_macro_arguments.test
+-rw-r--r-- 1 ewisniew 1049089  196 avr.  28 16:19 unary.test
+-rw-r--r-- 1 ewisniew 1049089  253 avr.  28 16:19 two_word_operators_as_variables.test
+-rw-r--r-- 1 ewisniew 1049089  145 avr.  28 16:19 ternary_operator_nothen.test
+-rw-r--r-- 1 ewisniew 1049089  139 avr.  28 16:19 ternary_operator_noelse.test
+-rw-r--r-- 1 ewisniew 1049089  365 avr.  28 16:19 ternary_operator.test
+-rw-r--r-- 1 ewisniew 1049089  217 avr.  28 16:19 strings.test
+-rw-r--r-- 1 ewisniew 1049089  601 avr.  28 16:19 starts_with.test
+-rw-r--r-- 1 ewisniew 1049089  349 avr.  28 16:19 sameas.test
+-rw-r--r-- 1 ewisniew 1049089  294 avr.  28 16:19 postfix.test
+-rw-r--r-- 1 ewisniew 1049089  268 avr.  28 16:19 operators_as_variables.test
+-rw-r--r-- 1 ewisniew 1049089  197 avr.  28 16:19 negative_numbers.test
+-rw-r--r-- 1 ewisniew 1049089  512 avr.  28 16:19 method_call.test
+-rw-r--r-- 1 ewisniew 1049089  238 avr.  28 16:19 matches.test
+-rw-r--r-- 1 ewisniew 1049089  507 avr.  28 16:19 magic_call.test
+-rw-r--r-- 1 ewisniew 1049089  234 avr.  28 16:19 literals.test
+-rw-r--r-- 1 ewisniew 1049089  123 avr.  28 16:19 grouping.test
+-rw-r--r-- 1 ewisniew 1049089  569 avr.  28 16:19 ends_with.test
+-rw-r--r-- 1 ewisniew 1049089  564 avr.  28 16:19 dotdot.test
+-rw-r--r-- 1 ewisniew 1049089  290 avr.  28 16:19 divisibleby.test
+-rw-r--r-- 1 ewisniew 1049089  299 avr.  28 16:19 comparison.test
+-rw-r--r-- 1 ewisniew 1049089  226 avr.  28 16:19 bitwise.test
+-rw-r--r-- 1 ewisniew 1049089  540 avr.  28 16:19 binary.test
+-rw-r--r-- 1 ewisniew 1049089  254 avr.  28 16:19 array_call.test
+-rw-r--r-- 1 ewisniew 1049089 1083 avr.  28 16:19 array.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/exceptions:
+total 11
+-rw-r--r-- 1 ewisniew 1049089 254 avr.  28 16:19 undefined_trait.test
+-rw-r--r-- 1 ewisniew 1049089 371 avr.  28 16:19 undefined_template_in_child_template.test
+-rw-r--r-- 1 ewisniew 1049089 207 avr.  28 16:19 undefined_parent.test
+-rw-r--r-- 1 ewisniew 1049089 328 avr.  28 16:19 unclosed_tag.test
+-rw-r--r-- 1 ewisniew 1049089 315 avr.  28 16:19 syntax_error_in_reused_template.test
+-rw-r--r-- 1 ewisniew 1049089 257 avr.  28 16:19 multiline_tag_with_undefined_variable.test
+-rw-r--r-- 1 ewisniew 1049089 320 avr.  28 16:19 multiline_function_with_unknown_argument.test
+-rw-r--r-- 1 ewisniew 1049089 287 avr.  28 16:19 multiline_function_with_undefined_variable.test
+-rw-r--r-- 1 ewisniew 1049089 301 avr.  28 16:19 multiline_array_with_undefined_variable_again.test
+-rw-r--r-- 1 ewisniew 1049089 320 avr.  28 16:19 multiline_array_with_undefined_variable.test
+-rw-r--r-- 1 ewisniew 1049089 494 avr.  28 16:19 child_contents_outside_blocks.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/errors:
+total 2
+-rw-r--r-- 1 ewisniew 1049089 135 avr.  28 16:19 index.html
+-rw-r--r-- 1 ewisniew 1049089  35 avr.  28 16:19 base.html
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Fixtures/autoescape:
+total 2
+-rw-r--r-- 1 ewisniew 1049089 363 avr.  28 16:19 filename.test
+-rw-r--r-- 1 ewisniew 1049089 525 avr.  28 16:19 block.test
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Extension:
+total 20
+-rw-r--r-- 1 ewisniew 1049089 9835 avr.  28 16:19 SandboxTest.php
+-rw-r--r-- 1 ewisniew 1049089 5732 avr.  28 16:19 CoreTest.php
+
+./GLMF199/How-to/vendor/twig/twig/test/Twig/Tests/Cache:
+total 8
+-rw-r--r-- 1 ewisniew 1049089 5744 avr.  28 16:19 FilesystemTest.php
+
+./GLMF199/How-to/vendor/twig/twig/lib:
+total 20
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 Twig/
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig:
+total 333
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Util/
+-rw-r--r-- 1 ewisniew 1049089  4501 avr.  28 16:19 TokenStream.php
+-rw-r--r-- 1 ewisniew 1049089  1009 avr.  28 16:19 TokenParserInterface.php
+-rw-r--r-- 1 ewisniew 1049089  1319 avr.  28 16:19 TokenParserBrokerInterface.php
+-rw-r--r-- 1 ewisniew 1049089  4334 avr.  28 16:19 TokenParserBroker.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 TokenParser/
+-rw-r--r-- 1 ewisniew 1049089   708 avr.  28 16:19 TokenParser.php
+-rw-r--r-- 1 ewisniew 1049089  6254 avr.  28 16:19 Token.php
+-rw-r--r-- 1 ewisniew 1049089   536 avr.  28 16:19 TestInterface.php
+-rw-r--r-- 1 ewisniew 1049089   457 avr.  28 16:19 TestCallableInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Test/
+-rw-r--r-- 1 ewisniew 1049089   942 avr.  28 16:19 Test.php
+-rw-r--r-- 1 ewisniew 1049089  1291 avr.  28 16:19 TemplateInterface.php
+-rw-r--r-- 1 ewisniew 1049089 20927 avr.  28 16:19 Template.php
+-rw-r--r-- 1 ewisniew 1049089  1484 avr.  28 16:19 SimpleTest.php
+-rw-r--r-- 1 ewisniew 1049089  2452 avr.  28 16:19 SimpleFunction.php
+-rw-r--r-- 1 ewisniew 1049089  2699 avr.  28 16:19 SimpleFilter.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Sandbox/
+-rw-r--r-- 1 ewisniew 1049089   728 avr.  28 16:19 RuntimeLoaderInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Profiler/
+-rw-r--r-- 1 ewisniew 1049089   767 avr.  28 16:19 ParserInterface.php
+-rw-r--r-- 1 ewisniew 1049089 12495 avr.  28 16:19 Parser.php
+-rw-r--r-- 1 ewisniew 1049089  1371 avr.  28 16:19 NodeVisitorInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 NodeVisitor/
+-rw-r--r-- 1 ewisniew 1049089  2454 avr.  28 16:19 NodeTraverser.php
+-rw-r--r-- 1 ewisniew 1049089   370 avr.  28 16:19 NodeOutputInterface.php
+-rw-r--r-- 1 ewisniew 1049089   693 avr.  28 16:19 NodeInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Node/
+-rw-r--r-- 1 ewisniew 1049089  7164 avr.  28 16:19 Node.php
+-rw-r--r-- 1 ewisniew 1049089   801 avr.  28 16:19 Markup.php
+-rw-r--r-- 1 ewisniew 1049089  1418 avr.  28 16:19 LoaderInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Loader/
+-rw-r--r-- 1 ewisniew 1049089   796 avr.  28 16:19 LexerInterface.php
+-rw-r--r-- 1 ewisniew 1049089 16726 avr.  28 16:19 Lexer.php
+-rw-r--r-- 1 ewisniew 1049089   847 avr.  28 16:19 FunctionInterface.php
+-rw-r--r-- 1 ewisniew 1049089   506 avr.  28 16:19 FunctionCallableInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Function/
+-rw-r--r-- 1 ewisniew 1049089  1849 avr.  28 16:19 Function.php
+-rw-r--r-- 1 ewisniew 1049089   892 avr.  28 16:19 FilterInterface.php
+-rw-r--r-- 1 ewisniew 1049089   500 avr.  28 16:19 FilterCallableInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Filter/
+-rw-r--r-- 1 ewisniew 1049089  2088 avr.  28 16:19 Filter.php
+-rw-r--r-- 1 ewisniew 1049089  1514 avr.  28 16:19 FileExtensionEscapingStrategy.php
+-rw-r--r-- 1 ewisniew 1049089  2416 avr.  28 16:19 ExtensionInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Extension/
+-rw-r--r-- 1 ewisniew 1049089  1665 avr.  28 16:19 Extension.php
+-rw-r--r-- 1 ewisniew 1049089 26670 avr.  28 16:19 ExpressionParser.php
+-rw-r--r-- 1 ewisniew 1049089   721 avr.  28 16:19 ExistsLoaderInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Error/
+-rw-r--r-- 1 ewisniew 1049089  8271 avr.  28 16:19 Error.php
+-rw-r--r-- 1 ewisniew 1049089 50657 avr.  28 16:19 Environment.php
+-rw-r--r-- 1 ewisniew 1049089   818 avr.  28 16:19 CompilerInterface.php
+-rw-r--r-- 1 ewisniew 1049089  7673 avr.  28 16:19 Compiler.php
+-rw-r--r-- 1 ewisniew 1049089  1447 avr.  28 16:19 CacheInterface.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Cache/
+-rw-r--r-- 1 ewisniew 1049089  1856 avr.  28 16:19 BaseNodeVisitor.php
+-rw-r--r-- 1 ewisniew 1049089  1547 avr.  28 16:19 Autoloader.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Util:
+total 5
+-rw-r--r-- 1 ewisniew 1049089  523 avr.  28 16:19 TemplateDirIterator.php
+-rw-r--r-- 1 ewisniew 1049089 2205 avr.  28 16:19 DeprecationCollector.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/TokenParser:
+total 66
+-rw-r--r-- 1 ewisniew 1049089 1891 avr.  28 16:19 Use.php
+-rw-r--r-- 1 ewisniew 1049089 1131 avr.  28 16:19 Spaceless.php
+-rw-r--r-- 1 ewisniew 1049089 2049 avr.  28 16:19 Set.php
+-rw-r--r-- 1 ewisniew 1049089 1699 avr.  28 16:19 Sandbox.php
+-rw-r--r-- 1 ewisniew 1049089 1778 avr.  28 16:19 Macro.php
+-rw-r--r-- 1 ewisniew 1049089 1601 avr.  28 16:19 Include.php
+-rw-r--r-- 1 ewisniew 1049089 1025 avr.  28 16:19 Import.php
+-rw-r--r-- 1 ewisniew 1049089 2484 avr.  28 16:19 If.php
+-rw-r--r-- 1 ewisniew 1049089 1792 avr.  28 16:19 From.php
+-rw-r--r-- 1 ewisniew 1049089 4616 avr.  28 16:19 For.php
+-rw-r--r-- 1 ewisniew 1049089  627 avr.  28 16:19 Flush.php
+-rw-r--r-- 1 ewisniew 1049089 1443 avr.  28 16:19 Filter.php
+-rw-r--r-- 1 ewisniew 1049089 1089 avr.  28 16:19 Extends.php
+-rw-r--r-- 1 ewisniew 1049089 2197 avr.  28 16:19 Embed.php
+-rw-r--r-- 1 ewisniew 1049089  702 avr.  28 16:19 Do.php
+-rw-r--r-- 1 ewisniew 1049089 2395 avr.  28 16:19 Block.php
+-rw-r--r-- 1 ewisniew 1049089 2541 avr.  28 16:19 AutoEscape.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Test:
+total 24
+-rw-r--r-- 1 ewisniew 1049089 1945 avr.  28 16:19 NodeTestCase.php
+-rw-r--r-- 1 ewisniew 1049089  856 avr.  28 16:19 Node.php
+-rw-r--r-- 1 ewisniew 1049089 1086 avr.  28 16:19 Method.php
+-rw-r--r-- 1 ewisniew 1049089 8121 avr.  28 16:19 IntegrationTestCase.php
+-rw-r--r-- 1 ewisniew 1049089  904 avr.  28 16:19 Function.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Sandbox:
+total 21
+-rw-r--r-- 1 ewisniew 1049089  584 avr.  28 16:19 SecurityPolicyInterface.php
+-rw-r--r-- 1 ewisniew 1049089 3900 avr.  28 16:19 SecurityPolicy.php
+-rw-r--r-- 1 ewisniew 1049089  779 avr.  28 16:19 SecurityNotAllowedTagError.php
+-rw-r--r-- 1 ewisniew 1049089  819 avr.  28 16:19 SecurityNotAllowedFunctionError.php
+-rw-r--r-- 1 ewisniew 1049089  807 avr.  28 16:19 SecurityNotAllowedFilterError.php
+-rw-r--r-- 1 ewisniew 1049089  403 avr.  28 16:19 SecurityError.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Profiler:
+total 4
+-rw-r--r-- 1 ewisniew 1049089 3836 avr.  28 16:19 Profile.php
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 NodeVisitor/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 Node/
+drwxr-xr-x 1 ewisniew 1049089    0 avr.  28 16:19 Dumper/
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Profiler/NodeVisitor:
+total 4
+-rw-r--r-- 1 ewisniew 1049089 2406 avr.  28 16:19 Profiler.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Profiler/Node:
+total 8
+-rw-r--r-- 1 ewisniew 1049089  806 avr.  28 16:19 LeaveProfile.php
+-rw-r--r-- 1 ewisniew 1049089 1263 avr.  28 16:19 EnterProfile.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Profiler/Dumper:
+total 12
+-rw-r--r-- 1 ewisniew 1049089 2054 avr.  28 16:19 Text.php
+-rw-r--r-- 1 ewisniew 1049089 1482 avr.  28 16:19 Html.php
+-rw-r--r-- 1 ewisniew 1049089 2028 avr.  28 16:19 Blackfire.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/NodeVisitor:
+total 32
+-rw-r--r-- 1 ewisniew 1049089 2454 avr.  28 16:19 Sandbox.php
+-rw-r--r-- 1 ewisniew 1049089 5001 avr.  28 16:19 SafeAnalysis.php
+-rw-r--r-- 1 ewisniew 1049089 9359 avr.  28 16:19 Optimizer.php
+-rw-r--r-- 1 ewisniew 1049089 5180 avr.  28 16:19 Escaper.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Node:
+total 103
+-rw-r--r-- 1 ewisniew 1049089   797 avr.  28 16:19 Text.php
+-rw-r--r-- 1 ewisniew 1049089   898 avr.  28 16:19 Spaceless.php
+-rw-r--r-- 1 ewisniew 1049089   875 avr.  28 16:19 SetTemp.php
+-rw-r--r-- 1 ewisniew 1049089  3211 avr.  28 16:19 Set.php
+-rw-r--r-- 1 ewisniew 1049089  1440 avr.  28 16:19 SandboxedPrint.php
+-rw-r--r-- 1 ewisniew 1049089  1207 avr.  28 16:19 Sandbox.php
+-rw-r--r-- 1 ewisniew 1049089   859 avr.  28 16:19 Print.php
+-rw-r--r-- 1 ewisniew 1049089 13994 avr.  28 16:19 Module.php
+-rw-r--r-- 1 ewisniew 1049089  3691 avr.  28 16:19 Macro.php
+-rw-r--r-- 1 ewisniew 1049089  2585 avr.  28 16:19 Include.php
+-rw-r--r-- 1 ewisniew 1049089  1365 avr.  28 16:19 Import.php
+-rw-r--r-- 1 ewisniew 1049089  1730 avr.  28 16:19 If.php
+-rw-r--r-- 1 ewisniew 1049089  1564 avr.  28 16:19 ForLoop.php
+-rw-r--r-- 1 ewisniew 1049089  4362 avr.  28 16:19 For.php
+-rw-r--r-- 1 ewisniew 1049089   653 avr.  28 16:19 Flush.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Expression/
+-rw-r--r-- 1 ewisniew 1049089   435 avr.  28 16:19 Expression.php
+-rw-r--r-- 1 ewisniew 1049089  1343 avr.  28 16:19 Embed.php
+-rw-r--r-- 1 ewisniew 1049089   763 avr.  28 16:19 Do.php
+-rw-r--r-- 1 ewisniew 1049089  3095 avr.  28 16:19 CheckSecurity.php
+-rw-r--r-- 1 ewisniew 1049089   356 avr.  28 16:19 Body.php
+-rw-r--r-- 1 ewisniew 1049089   838 avr.  28 16:19 BlockReference.php
+-rw-r--r-- 1 ewisniew 1049089  1010 avr.  28 16:19 Block.php
+-rw-r--r-- 1 ewisniew 1049089   875 avr.  28 16:19 AutoEscape.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Node/Expression:
+total 79
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Unary/
+-rw-r--r-- 1 ewisniew 1049089   736 avr.  28 16:19 Unary.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Test/
+-rw-r--r-- 1 ewisniew 1049089  1293 avr.  28 16:19 Test.php
+-rw-r--r-- 1 ewisniew 1049089   620 avr.  28 16:19 TempName.php
+-rw-r--r-- 1 ewisniew 1049089  1159 avr.  28 16:19 Parent.php
+-rw-r--r-- 1 ewisniew 1049089   831 avr.  28 16:19 NullCoalesce.php
+-rw-r--r-- 1 ewisniew 1049089  2976 avr.  28 16:19 Name.php
+-rw-r--r-- 1 ewisniew 1049089  1244 avr.  28 16:19 MethodCall.php
+-rw-r--r-- 1 ewisniew 1049089  2454 avr.  28 16:19 GetAttr.php
+-rw-r--r-- 1 ewisniew 1049089  1426 avr.  28 16:19 Function.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Filter/
+-rw-r--r-- 1 ewisniew 1049089  1550 avr.  28 16:19 Filter.php
+-rw-r--r-- 1 ewisniew 1049089   936 avr.  28 16:19 ExtensionReference.php
+-rw-r--r-- 1 ewisniew 1049089   580 avr.  28 16:19 Constant.php
+-rw-r--r-- 1 ewisniew 1049089   933 avr.  28 16:19 Conditional.php
+-rw-r--r-- 1 ewisniew 1049089 11477 avr.  28 16:19 Call.php
+-rw-r--r-- 1 ewisniew 1049089  1323 avr.  28 16:19 BlockReference.php
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 Binary/
+-rw-r--r-- 1 ewisniew 1049089   954 avr.  28 16:19 Binary.php
+-rw-r--r-- 1 ewisniew 1049089   530 avr.  28 16:19 AssignName.php
+-rw-r--r-- 1 ewisniew 1049089  2322 avr.  28 16:19 Array.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Node/Expression/Unary:
+total 3
+-rw-r--r-- 1 ewisniew 1049089 422 avr.  28 16:19 Pos.php
+-rw-r--r-- 1 ewisniew 1049089 422 avr.  28 16:19 Not.php
+-rw-r--r-- 1 ewisniew 1049089 422 avr.  28 16:19 Neg.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Node/Expression/Test:
+total 16
+-rw-r--r-- 1 ewisniew 1049089  719 avr.  28 16:19 Sameas.php
+-rw-r--r-- 1 ewisniew 1049089  665 avr.  28 16:19 Odd.php
+-rw-r--r-- 1 ewisniew 1049089  649 avr.  28 16:19 Null.php
+-rw-r--r-- 1 ewisniew 1049089  668 avr.  28 16:19 Even.php
+-rw-r--r-- 1 ewisniew 1049089  781 avr.  28 16:19 Divisibleby.php
+-rw-r--r-- 1 ewisniew 1049089 1858 avr.  28 16:19 Defined.php
+-rw-r--r-- 1 ewisniew 1049089 1176 avr.  28 16:19 Constant.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Node/Expression/Filter:
+total 4
+-rw-r--r-- 1 ewisniew 1049089 1626 avr.  28 16:19 Default.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Node/Expression/Binary:
+total 31
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 Sub.php
+-rw-r--r-- 1 ewisniew 1049089 911 avr.  28 16:19 StartsWith.php
+-rw-r--r-- 1 ewisniew 1049089 685 avr.  28 16:19 Range.php
+-rw-r--r-- 1 ewisniew 1049089 683 avr.  28 16:19 Power.php
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 Or.php
+-rw-r--r-- 1 ewisniew 1049089 699 avr.  28 16:19 NotIn.php
+-rw-r--r-- 1 ewisniew 1049089 409 avr.  28 16:19 NotEqual.php
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 Mul.php
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 Mod.php
+-rw-r--r-- 1 ewisniew 1049089 690 avr.  28 16:19 Matches.php
+-rw-r--r-- 1 ewisniew 1049089 410 avr.  28 16:19 LessEqual.php
+-rw-r--r-- 1 ewisniew 1049089 404 avr.  28 16:19 Less.php
+-rw-r--r-- 1 ewisniew 1049089 691 avr.  28 16:19 In.php
+-rw-r--r-- 1 ewisniew 1049089 413 avr.  28 16:19 GreaterEqual.php
+-rw-r--r-- 1 ewisniew 1049089 407 avr.  28 16:19 Greater.php
+-rw-r--r-- 1 ewisniew 1049089 586 avr.  28 16:19 FloorDiv.php
+-rw-r--r-- 1 ewisniew 1049089 406 avr.  28 16:19 Equal.php
+-rw-r--r-- 1 ewisniew 1049089 922 avr.  28 16:19 EndsWith.php
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 Div.php
+-rw-r--r-- 1 ewisniew 1049089 434 avr.  28 16:19 Concat.php
+-rw-r--r-- 1 ewisniew 1049089 438 avr.  28 16:19 BitwiseXor.php
+-rw-r--r-- 1 ewisniew 1049089 437 avr.  28 16:19 BitwiseOr.php
+-rw-r--r-- 1 ewisniew 1049089 438 avr.  28 16:19 BitwiseAnd.php
+-rw-r--r-- 1 ewisniew 1049089 432 avr.  28 16:19 And.php
+-rw-r--r-- 1 ewisniew 1049089 431 avr.  28 16:19 Add.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Loader:
+total 20
+-rw-r--r-- 1 ewisniew 1049089 1574 avr.  28 16:19 String.php
+-rw-r--r-- 1 ewisniew 1049089 7587 avr.  28 16:19 Filesystem.php
+-rw-r--r-- 1 ewisniew 1049089 3851 avr.  28 16:19 Chain.php
+-rw-r--r-- 1 ewisniew 1049089 2484 avr.  28 16:19 Array.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Function:
+total 12
+-rw-r--r-- 1 ewisniew 1049089  946 avr.  28 16:19 Node.php
+-rw-r--r-- 1 ewisniew 1049089 1176 avr.  28 16:19 Method.php
+-rw-r--r-- 1 ewisniew 1049089  994 avr.  28 16:19 Function.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Filter:
+total 12
+-rw-r--r-- 1 ewisniew 1049089  934 avr.  28 16:19 Node.php
+-rw-r--r-- 1 ewisniew 1049089 1135 avr.  28 16:19 Method.php
+-rw-r--r-- 1 ewisniew 1049089  953 avr.  28 16:19 Function.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Extension:
+total 86
+-rw-r--r-- 1 ewisniew 1049089  1057 avr.  28 16:19 StringLoader.php
+-rw-r--r-- 1 ewisniew 1049089  1947 avr.  28 16:19 Staging.php
+-rw-r--r-- 1 ewisniew 1049089  2257 avr.  28 16:19 Sandbox.php
+-rw-r--r-- 1 ewisniew 1049089  1055 avr.  28 16:19 Profiler.php
+-rw-r--r-- 1 ewisniew 1049089   619 avr.  28 16:19 Optimizer.php
+-rw-r--r-- 1 ewisniew 1049089   540 avr.  28 16:19 InitRuntimeInterface.php
+-rw-r--r-- 1 ewisniew 1049089   534 avr.  28 16:19 GlobalsInterface.php
+-rw-r--r-- 1 ewisniew 1049089  2757 avr.  28 16:19 Escaper.php
+-rw-r--r-- 1 ewisniew 1049089  1820 avr.  28 16:19 Debug.php
+-rw-r--r-- 1 ewisniew 1049089 54894 avr.  28 16:19 Core.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Error:
+total 9
+-rw-r--r-- 1 ewisniew 1049089 1471 avr.  28 16:19 Syntax.php
+-rw-r--r-- 1 ewisniew 1049089  415 avr.  28 16:19 Runtime.php
+-rw-r--r-- 1 ewisniew 1049089  977 avr.  28 16:19 Loader.php
+
+./GLMF199/How-to/vendor/twig/twig/lib/Twig/Cache:
+total 8
+-rw-r--r-- 1 ewisniew 1049089  806 avr.  28 16:19 Null.php
+-rw-r--r-- 1 ewisniew 1049089 2619 avr.  28 16:19 Filesystem.php
+
+./GLMF199/How-to/vendor/twig/twig/ext:
+total 0
+drwxr-xr-x 1 ewisniew 1049089 0 avr.  28 16:19 twig/
+
+./GLMF199/How-to/vendor/twig/twig/ext/twig:
+total 42
+-rw-r--r-- 1 ewisniew 1049089 33238 avr.  28 16:19 twig.c
+-rw-r--r-- 1 ewisniew 1049089  1240 avr.  28 16:19 php_twig.h
+-rw-r--r-- 1 ewisniew 1049089   157 avr.  28 16:19 config.w32
+-rw-r--r-- 1 ewisniew 1049089   229 avr.  28 16:19 config.m4
+
+./GLMF199/How-to/vendor/twig/twig/doc:
+total 177
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 tests/
+-rw-r--r-- 1 ewisniew 1049089 28296 avr.  28 16:19 templates.rst
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 tags/
+-rw-r--r-- 1 ewisniew 1049089 18805 avr.  28 16:19 recipes.rst
+-rw-r--r-- 1 ewisniew 1049089  2770 avr.  28 16:19 intro.rst
+-rw-r--r-- 1 ewisniew 1049089  4604 avr.  28 16:19 internals.rst
+-rw-r--r-- 1 ewisniew 1049089  3636 avr.  28 16:19 installation.rst
+-rw-r--r-- 1 ewisniew 1049089   254 avr.  28 16:19 index.rst
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 functions/
+drwxr-xr-x 1 ewisniew 1049089     0 avr.  28 16:19 filters/
+-rw-r--r-- 1 ewisniew 1049089  6250 avr.  28 16:19 deprecated.rst
+-rw-r--r-- 1 ewisniew 1049089  2486 avr.  28 16:19 coding_standards.rst
+-rw-r--r-- 1 ewisniew 1049089 19210 avr.  28 16:19 api.rst
+-rw-r--r-- 1 ewisniew 1049089 28043 avr.  28 16:19 advanced_legacy.rst
+-rw-r--r-- 1 ewisniew 1049089 30843 avr.  28 16:19 advanced.rst
+
+./GLMF199/How-to/vendor/twig/twig/doc/tests:
+total 10
+-rw-r--r-- 1 ewisniew 1049089 394 avr.  28 16:19 sameas.rst
+-rw-r--r-- 1 ewisniew 1049089 166 avr.  28 16:19 odd.rst
+-rw-r--r-- 1 ewisniew 1049089 183 avr.  28 16:19 null.rst
+-rw-r--r-- 1 ewisniew 1049089 482 avr.  28 16:19 iterable.rst
+-rw-r--r-- 1 ewisniew 1049089 160 avr.  28 16:19 index.rst
+-rw-r--r-- 1 ewisniew 1049089 169 avr.  28 16:19 even.rst
+-rw-r--r-- 1 ewisniew 1049089 232 avr.  28 16:19 empty.rst
+-rw-r--r-- 1 ewisniew 1049089 326 avr.  28 16:19 divisibleby.rst
+-rw-r--r-- 1 ewisniew 1049089 724 avr.  28 16:19 defined.rst
+-rw-r--r-- 1 ewisniew 1049089 653 avr.  28 16:19 constant.rst
+
+./GLMF199/How-to/vendor/twig/twig/doc/tags:
+total 67
+-rw-r--r-- 1 ewisniew 1049089  645 avr.  28 16:19 verbatim.rst
+-rw-r--r-- 1 ewisniew 1049089 3544 avr.  28 16:19 use.rst
+-rw-r--r-- 1 ewisniew 1049089 1209 avr.  28 16:19 spaceless.rst
+-rw-r--r-- 1 ewisniew 1049089 1760 avr.  28 16:19 set.rst
+-rw-r--r-- 1 ewisniew 1049089  794 avr.  28 16:19 sandbox.rst
+-rw-r--r-- 1 ewisniew 1049089 3087 avr.  28 16:19 macro.rst
+-rw-r--r-- 1 ewisniew 1049089  253 avr.  28 16:19 index.rst
+-rw-r--r-- 1 ewisniew 1049089 2788 avr.  28 16:19 include.rst
+-rw-r--r-- 1 ewisniew 1049089 1815 avr.  28 16:19 import.rst
+-rw-r--r-- 1 ewisniew 1049089 2039 avr.  28 16:19 if.rst
+-rw-r--r-- 1 ewisniew 1049089  283 avr.  28 16:19 from.rst
+-rw-r--r-- 1 ewisniew 1049089 4821 avr.  28 16:19 for.rst
+-rw-r--r-- 1 ewisniew 1049089  299 avr.  28 16:19 flush.rst
+-rw-r--r-- 1 ewisniew 1049089  484 avr.  28 16:19 filter.rst
+-rw-r--r-- 1 ewisniew 1049089 7704 avr.  28 16:19 extends.rst
+-rw-r--r-- 1 ewisniew 1049089 7256 avr.  28 16:19 embed.rst
+-rw-r--r-- 1 ewisniew 1049089  254 avr.  28 16:19 do.rst
+-rw-r--r-- 1 ewisniew 1049089  459 avr.  28 16:19 block.rst
+-rw-r--r-- 1 ewisniew 1049089 2409 avr.  28 16:19 autoescape.rst
+
+./GLMF199/How-to/vendor/twig/twig/doc/functions:
+total 39
+-rw-r--r-- 1 ewisniew 1049089  989 avr.  28 16:19 template_from_string.rst
+-rw-r--r-- 1 ewisniew 1049089  886 avr.  28 16:19 source.rst
+-rw-r--r-- 1 ewisniew 1049089  950 avr.  28 16:19 range.rst
+-rw-r--r-- 1 ewisniew 1049089  884 avr.  28 16:19 random.rst
+-rw-r--r-- 1 ewisniew 1049089  583 avr.  28 16:19 parent.rst
+-rw-r--r-- 1 ewisniew 1049089  424 avr.  28 16:19 min.rst
+-rw-r--r-- 1 ewisniew 1049089  425 avr.  28 16:19 max.rst
+-rw-r--r-- 1 ewisniew 1049089  233 avr.  28 16:19 index.rst
+-rw-r--r-- 1 ewisniew 1049089 2444 avr.  28 16:19 include.rst
+-rw-r--r-- 1 ewisniew 1049089 1713 avr.  28 16:19 dump.rst
+-rw-r--r-- 1 ewisniew 1049089 1371 avr.  28 16:19 date.rst
+-rw-r--r-- 1 ewisniew 1049089  576 avr.  28 16:19 cycle.rst
+-rw-r--r-- 1 ewisniew 1049089  449 avr.  28 16:19 constant.rst
+-rw-r--r-- 1 ewisniew 1049089  374 avr.  28 16:19 block.rst
+-rw-r--r-- 1 ewisniew 1049089  707 avr.  28 16:19 attribute.rst
+
+./GLMF199/How-to/vendor/twig/twig/doc/filters:
+total 74
+-rw-r--r-- 1 ewisniew 1049089 1119 avr.  28 16:19 url_encode.rst
+-rw-r--r-- 1 ewisniew 1049089  162 avr.  28 16:19 upper.rst
+-rw-r--r-- 1 ewisniew 1049089  552 avr.  28 16:19 trim.rst
+-rw-r--r-- 1 ewisniew 1049089  266 avr.  28 16:19 title.rst
+-rw-r--r-- 1 ewisniew 1049089  305 avr.  28 16:19 striptags.rst
+-rw-r--r-- 1 ewisniew 1049089 1467 avr.  28 16:19 split.rst
+-rw-r--r-- 1 ewisniew 1049089  362 avr.  28 16:19 sort.rst
+-rw-r--r-- 1 ewisniew 1049089 2264 avr.  28 16:19 slice.rst
+-rw-r--r-- 1 ewisniew 1049089  898 avr.  28 16:19 round.rst
+-rw-r--r-- 1 ewisniew 1049089 1111 avr.  28 16:19 reverse.rst
+-rw-r--r-- 1 ewisniew 1049089  448 avr.  28 16:19 replace.rst
+-rw-r--r-- 1 ewisniew 1049089 1248 avr.  28 16:19 raw.rst
+-rw-r--r-- 1 ewisniew 1049089 1368 avr.  28 16:19 number_format.rst
+-rw-r--r-- 1 ewisniew 1049089  451 avr.  28 16:19 nl2br.rst
+-rw-r--r-- 1 ewisniew 1049089 1412 avr.  28 16:19 merge.rst
+-rw-r--r-- 1 ewisniew 1049089  162 avr.  28 16:19 lower.rst
+-rw-r--r-- 1 ewisniew 1049089  220 avr.  28 16:19 length.rst
+-rw-r--r-- 1 ewisniew 1049089  537 avr.  28 16:19 last.rst
+-rw-r--r-- 1 ewisniew 1049089  230 avr.  28 16:19 keys.rst
+-rw-r--r-- 1 ewisniew 1049089  506 avr.  28 16:19 json_encode.rst
+-rw-r--r-- 1 ewisniew 1049089  452 avr.  28 16:19 join.rst
+-rw-r--r-- 1 ewisniew 1049089  439 avr.  28 16:19 index.rst
+-rw-r--r-- 1 ewisniew 1049089  408 avr.  28 16:19 format.rst
+-rw-r--r-- 1 ewisniew 1049089  545 avr.  28 16:19 first.rst
+-rw-r--r-- 1 ewisniew 1049089 3581 avr.  28 16:19 escape.rst
+-rw-r--r-- 1 ewisniew 1049089  891 avr.  28 16:19 default.rst
+-rw-r--r-- 1 ewisniew 1049089  652 avr.  28 16:19 date_modify.rst
+-rw-r--r-- 1 ewisniew 1049089 3233 avr.  28 16:19 date.rst
+-rw-r--r-- 1 ewisniew 1049089  789 avr.  28 16:19 convert_encoding.rst
+-rw-r--r-- 1 ewisniew 1049089  244 avr.  28 16:19 capitalize.rst
+-rw-r--r-- 1 ewisniew 1049089 1141 avr.  28 16:19 batch.rst
+-rw-r--r-- 1 ewisniew 1049089  265 avr.  28 16:19 abs.rst
+
+./GLMF199/How-to/vendor/composer:
+total 35
+-rw-r--r-- 1 ewisniew 1049089  2045 avr.  28 16:19 installed.json
+-rw-r--r-- 1 ewisniew 1049089   655 avr.  28 16:19 autoload_static.php
+-rw-r--r-- 1 ewisniew 1049089  1733 avr.  28 16:19 autoload_real.php
+-rw-r--r-- 1 ewisniew 1049089   152 avr.  28 16:19 autoload_psr4.php
+-rw-r--r-- 1 ewisniew 1049089   212 avr.  28 16:19 autoload_namespaces.php
+-rw-r--r-- 1 ewisniew 1049089   156 avr.  28 16:19 autoload_classmap.php
+-rw-r--r-- 1 ewisniew 1049089  1096 avr.  28 16:19 LICENSE
+-rw-r--r-- 1 ewisniew 1049089 12879 avr.  28 16:19 ClassLoader.php
+
+./GLMF199/How-to/modele:
+total 1
+-rw-r--r-- 1 ewisniew 1049089 641 avr.  28 16:19 data.php
+
+./GLMF199/Dev:
+total 15
+-rw-r--r-- 1 ewisniew 1049089  269 avr.  28 16:19 crawler.py
+-rw-r--r-- 1 ewisniew 1049089 2920 avr.  28 16:19 WebCrawler.py
+-rw-r--r-- 1 ewisniew 1049089 1123 avr.  28 16:19 TestHtmlParser.py
+-rw-r--r-- 1 ewisniew 1049089  387 avr.  28 16:19 README.md
+-rw-r--r-- 1 ewisniew 1049089 1794 avr.  28 16:19 IndexEngine.py
+-rw-r--r-- 1 ewisniew 1049089  416 avr.  28 16:19 Engine.py
